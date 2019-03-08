@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jolestar/go-commons-pool/collections"
-	"github.com/jolestar/go-commons-pool/concurrent"
+	"github.com/zxiaofee001/go-db-pool/collections"
+	"github.com/zxiaofee001/go-db-pool/concurrent"
 )
 
 type baseErr struct {

@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jolestar/go-commons-pool/collections"
+	"github.com/zxiaofee001/go-db-pool/collections"
 )
 
 // PooledObjectState is PooledObjectState enum const

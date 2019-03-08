@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"sync/atomic"
 
-	"github.com/jolestar/go-commons-pool"
+	"github.com/zxiaofee001/go-db-pool"
 )
 
 type MyPoolObject struct {

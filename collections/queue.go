@@ -5,7 +5,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/jolestar/go-commons-pool/concurrent"
+	"github.com/zxiaofee001/go-db-pool/concurrent"
 )
 
 // InterruptedErr when deque block method bean interrupted will return this err
